@@ -6,7 +6,7 @@
 - **Semester**: Fall 2025
 
 ## Repository Purpose
-This repository wukk contain assignents, projects, and exercises for CSCI 6330.
+This repository will contain assignents, projects, and exercises for CSCI 6330.
 
 ## Contact
 My email is ajo3z@mtmail.mtsu.edu
